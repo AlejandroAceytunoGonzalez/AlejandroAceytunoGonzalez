@@ -1,11 +1,19 @@
-### Hi there 👋
+# Hello there! 👋
+## My name is Alejandro Aceytuno Gonzalez, and I am a web developer, currently learning Videogame development in IES Rafael Alberti.
+
+This is what I Know:
+* 🐍 Python, ☕ Java and C#️⃣
+* 🌐 Html, Css and Javascript
+* Used some Frameworks, like 💐 Springboot or ✨ Next.Js
+* Know a bit of 🕹️ Unity, though I never finished a project 🙃. (I Intend to finish a few this academic year)
+* In a Love/Hate relationship with 🐋 Docker
 
 <!--
 **AlejandroAceytunoGonzalez/AlejandroAceytunoGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
